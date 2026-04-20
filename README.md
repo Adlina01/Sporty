@@ -41,42 +41,6 @@ Sporty is a web-based platform that connects **customers** with **sports venue o
 
 ---
 
-## 🚀 Getting Started
-
-### Prerequisites
-- PHP >= 7.4
-- MySQL
-- A local server (e.g. [XAMPP](https://www.apachefriends.org/) or [WAMP](https://www.wampserver.com/))
-
-### Installation
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/Adlina01/Sporty.git
-   cd Sporty
-   ```
-
-2. **Set up the database**
-   - Open phpMyAdmin (or your MySQL client)
-   - Create a new database named `sporty`
-   - Import the provided `.sql` file
-
-3. **Configure the connection**
-   - Open the database config file and update your credentials:
-   ```php
-   $host = "localhost";
-   $user = "root";
-   $password = "";
-   $database = "sporty";
-   ```
-
-4. **Run the project**
-   - Place the project folder inside `htdocs` (XAMPP) or `www` (WAMP)
-   - Start Apache and MySQL from your control panel
-   - Visit `http://localhost/Sporty` in your browser
-
----
-
 ## 👥 User Roles
 
 | Role | Description |
