@@ -113,7 +113,7 @@ Sporty was built as a **group project** by a team of 5 members.
 I was responsible for the **venue owner side** of the application, including:
 
 - 🔐 **Login & Register** — Built the authentication system for both customers and venue owners
-- 🏢 **Venue Owner Dashboard** — Designed and developed the dashboard interface for venue owners
+- 🏢 **Venue Owner Dashboard** — Designed and developed some chart in the dashboard interface for venue owners
 - ➕ **Add Venue** — Implemented the form and logic for owners to list new sports venues
 - ✏️ **Edit Venue** — Built the ability for owners to update their venue details
 - 🗑️ **Delete Venue** — Implemented venue removal with confirmation handling
