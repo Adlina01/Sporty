@@ -12,7 +12,7 @@ Sporty is a web-based platform that connects **customers** with **sports venue o
 
 | Customer View | Venue Owner Dashboard |
 |---|---|
-| ![Customer](screenshot-customer.png) | ![Own<img width="1280" height="719" alt="6136333442560934688" src="https://github.com/user-attachments/assets/272920e1-6e48-44cc-a268-3f2e45c0af7b"<img width="1280" height="719" alt="6136333442560934687" src="https://github.com/user-attachments/assets/2c817fcc-19aa-4949-8f9e-7e74ade1b5b1"<img width="1280" height="719" alt="6136333442560934686" src="https://github.com/user-attachments/assets/ebd5cc4a-6078-41c4-888f-b0caa918514e" />
+| ![Customer](screenshot-customer.png) | ![<img width="1280" height="719" alt="6136333442560934688" src="https://github.com/user-attachments/assets/272920e1-6e48-44cc-a268-3f2e45c0af7b"/><img width="1280" height="719" alt="6136333442560934687" src="https://github.com/user-attachments/assets/2c817fcc-19aa-4949-8f9e-7e74ade1b5b1"/><img width="1280" height="719" alt="6136333442560934686" src="https://github.com/user-attachments/assets/ebd5cc4a-6078-41c4-888f-b0caa918514e" />
  />
  />
 er](screenshot-owner.png) |
