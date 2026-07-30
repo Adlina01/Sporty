@@ -8,10 +8,11 @@ Sporty is a web-based platform that connects **customers** with **sports venue o
 
 ## 📸 Screenshots
 
-| Venue Owner Interface|
-
-<img width="1263" height="575" alt="6136333442560934688" src="https://github.com/user-attachments/assets/07214bf7-90e2-45d0-abe8-3664ce1d1a70" />&nbsp;<img width="1265" height="585" alt="6136333442560934687" src="https://github.com/user-attachments/assets/a3f8e891-700f-4729-97cd-fbd8cb5381d2" />&nbsp; <img width="1267" height="586" alt="6136333442560934686" src="https://github.com/user-attachments/assets/7cc8e4c8-b410-4bf7-99a7-b7cbf6295f7c" />
- 
+**Venue Owner Interface**
+<br>
+<img width="260" alt="6136333442560934688" src="https://github.com/user-attachments/assets/07214bf7-90e2-45d0-abe8-3664ce1d1a70" />
+<img width="260" alt="6136333442560934687" src="https://github.com/user-attachments/assets/a3f8e891-700f-4729-97cd-fbd8cb5381d2" />
+<img width="260" alt="6136333442560934686" src="https://github.com/user-attachments/assets/7cc8e4c8-b410-4bf7-99a7-b7cbf6295f7c" />
 
 ---
 
@@ -61,7 +62,7 @@ Sporty/
 ├── index_sm.php          # Secondary index
 ├── login.php             # Login page
 ├── logout.php            # Logout handler
-├── booking.php           # Booking page
+├── booking.php            # Booking page
 ├── booking_cust.php      # Customer booking view
 ├── booking_process.php   # Booking logic handler
 └── README.md
@@ -74,6 +75,7 @@ Sporty/
 Sporty was built as a **group project** by a team of 5 members.
 
 ### My Contributions — Adlina Amalin
+
 I was responsible for the **venue owner side** of the application, including:
 
 - 🔐 **Login & Register** — Built the authentication system for both customers and venue owners
@@ -90,4 +92,3 @@ I was responsible for the **venue owner side** of the application, including:
 ## 📄 License
 
 This project is for educational purposes. Feel free to explore the code!
-
